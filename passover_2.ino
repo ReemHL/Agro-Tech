@@ -6,8 +6,8 @@
 unsigned long myChannelNumber = 1708074;
 const char * myWriteAPIKey = "D6FJZQJT602R3XAA";
 
-const char* ssid = "daniel"; // your wifi SSID name
-const char* password = "0503344997" ;// wifi pasword
+const char* ssid = ""; // your wifi SSID name
+const char* password = "" ;// wifi pasword
  
 const char* server = "api.thingspeak.com";
 
